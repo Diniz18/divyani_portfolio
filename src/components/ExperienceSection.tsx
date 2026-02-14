@@ -25,6 +25,17 @@ const experiences = [
       "Assisted in content planning, ensuring consistent brand identity across all media platforms.",
     ],
   },
+  {
+    role: "Video Editor and Graphic Designer",
+    company: "And We media",
+    duration: "14 months",
+    points: [
+  "Dynamic Senior Video Editor and Graphic Designer with 1+ year of experience leading creative workflows in the media industry.",
+  "Skilled in combining high-end visual storytelling with strong design and editing techniques to produce impactful content.",
+  "Proven ability to manage projects strategically and deliver engaging digital media across multiple platforms.",
+],
+
+  },
 ];
 
 const ExperienceSection = () => {
