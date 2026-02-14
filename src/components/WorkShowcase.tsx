@@ -4,6 +4,29 @@ import { ScrollTrigger } from "gsap/ScrollTrigger";
 import { Play, ExternalLink, Instagram, X, ZoomIn } from "lucide-react";
 import krishnPoster from "../assets/krushnakunj-2.jpg";
 import krishnPoster2 from "../assets/krushnakunj.jpg";
+import GuruPurnima3 from "../assets/Guru-Purnima-3.jpg";
+import GuruPurnima from "../assets/Guru-Purnima.jpg";
+import UTBEkadashi from "../assets/UTB-Ekadashi.jpg";
+import Yogaday from "../assets/Yoga-day.jpg";
+import poratge17 from "../assets/poratge17.jpeg";
+import portage1 from "../assets/portage1.jpeg";
+import portage10 from "../assets/portage10.jpeg";
+import portage11 from "../assets/portage11.jpeg";
+import portage12 from "../assets/portage12.jpeg";
+import portage13 from "../assets/portage13.jpeg";
+import portage14 from "../assets/portage14.jpeg";
+import portage15 from "../assets/portage15.jpeg";
+import portage16 from "../assets/portage16.jpeg";
+import portage2 from "../assets/portage2.jpeg";
+import portage3 from "../assets/portage3.jpeg";
+import portage4 from "../assets/portage4.jpeg";
+import portage5 from "../assets/portage5.jpeg";
+import portage6 from "../assets/portage6.jpeg";
+import portage7 from "../assets/portage7.jpeg";
+import portage8 from "../assets/portage8.jpeg";
+import portage9 from "../assets/portage9.jpeg";
+import sankranti from "../assets/sankranti.jpg";
+
 
 gsap.registerPlugin(ScrollTrigger);
 
@@ -95,20 +118,182 @@ const works: WorkItem[] = [
   },
 
   /* ---------------- POSTERS ---------------- */
-  {
-    title: "Krishn Kunj Poster",
-    category: "Posters",
-    type: "image",
-    description: "",
-    image: krishnPoster2,
-  },
-  {
-    title: "Krishn Kunj Poster",
-    category: "Posters",
-    type: "image",
-    description: "",
-    image: krishnPoster,
-  },
+  /* ---------------- POSTERS ---------------- */
+{
+  title: "Krishn Kunj Poster Design 1",
+  category: "Posters",
+  type: "image",
+  description: "Creative festival poster design created for Krishn Kunj campaign.",
+  image: krishnPoster2,
+},
+{
+  title: "Krishn Kunj Poster Design 2",
+  category: "Posters",
+  type: "image",
+  description: "Promotional poster artwork designed for Krishn Kunj branding.",
+  image: krishnPoster,
+},
+
+{
+  title: "Guru Purnima Special Poster",
+  category: "Posters",
+  type: "image",
+  description: "A devotional poster design created for the Guru Purnima celebration.",
+  image: GuruPurnima,
+},
+{
+  title: "Guru Purnima Event Poster 3",
+  category: "Posters",
+  type: "image",
+  description: "Creative event poster made for Guru Purnima festival campaign.",
+  image: GuruPurnima3,
+},
+
+{
+  title: "UTB Ekadashi Festival Poster",
+  category: "Posters",
+  type: "image",
+  description: "Poster design created for UTB Kitchen Ekadashi festival promotion.",
+  image: UTBEkadashi,
+},
+
+{
+  title: "International Yoga Day Poster",
+  category: "Posters",
+  type: "image",
+  description: "Wellness-themed creative poster designed for Yoga Day celebration.",
+  image: Yogaday,
+},
+
+{
+  title: "Makar Sankranti Festival Poster",
+  category: "Posters",
+  type: "image",
+  description: "Traditional festive poster artwork created for Sankranti campaign.",
+  image: sankranti,
+},
+
+/* ---------------- PORTFOLIO POSTER SERIES ---------------- */
+{
+  title: "Portfolio Poster Design 1",
+  category: "Posters",
+  type: "image",
+  description: "A creative poster design showcasing modern layout and branding.",
+  image: portage1,
+},
+{
+  title: "Portfolio Poster Design 2",
+  category: "Posters",
+  type: "image",
+  description: "Promotional poster concept designed for digital marketing showcase.",
+  image: portage2,
+},
+{
+  title: "Portfolio Poster Design 3",
+  category: "Posters",
+  type: "image",
+  description: "Minimal and clean poster artwork created as part of portfolio series.",
+  image: portage3,
+},
+{
+  title: "Portfolio Poster Design 4",
+  category: "Posters",
+  type: "image",
+  description: "Creative visual poster design made with professional typography.",
+  image: portage4,
+},
+{
+  title: "Portfolio Poster Design 5",
+  category: "Posters",
+  type: "image",
+  description: "Digital poster layout created for branding and social media use.",
+  image: portage5,
+},
+{
+  title: "Portfolio Poster Design 6",
+  category: "Posters",
+  type: "image",
+  description: "Poster design concept featuring modern color and composition.",
+  image: portage6,
+},
+{
+  title: "Portfolio Poster Design 7",
+  category: "Posters",
+  type: "image",
+  description: "Creative campaign-style poster designed for portfolio collection.",
+  image: portage7,
+},
+{
+  title: "Portfolio Poster Design 8",
+  category: "Posters",
+  type: "image",
+  description: "Promotional poster design showcasing creative branding skills.",
+  image: portage8,
+},
+{
+  title: "Portfolio Poster Design 9",
+  category: "Posters",
+  type: "image",
+  description: "Poster artwork created with focus on typography and balance.",
+  image: portage9,
+},
+{
+  title: "Portfolio Poster Design 10",
+  category: "Posters",
+  type: "image",
+  description: "Creative poster layout designed for digital portfolio showcase.",
+  image: portage10,
+},
+{
+  title: "Portfolio Poster Design 11",
+  category: "Posters",
+  type: "image",
+  description: "Professional marketing poster design created for social media.",
+  image: portage11,
+},
+{
+  title: "Portfolio Poster Design 12",
+  category: "Posters",
+  type: "image",
+  description: "Poster design concept focusing on creative branding visuals.",
+  image: portage12,
+},
+{
+  title: "Portfolio Poster Design 13",
+  category: "Posters",
+  type: "image",
+  description: "Promotional poster created as part of modern design series.",
+  image: portage13,
+},
+{
+  title: "Portfolio Poster Design 14",
+  category: "Posters",
+  type: "image",
+  description: "Clean and creative poster artwork designed for digital campaigns.",
+  image: portage14,
+},
+{
+  title: "Portfolio Poster Design 15",
+  category: "Posters",
+  type: "image",
+  description: "Creative portfolio poster highlighting layout and typography skills.",
+  image: portage15,
+},
+{
+  title: "Portfolio Poster Design 16",
+  category: "Posters",
+  type: "image",
+  description: "Marketing poster concept designed with a modern professional look.",
+  image: portage16,
+},
+{
+  title: "Portfolio Poster Design 17",
+  category: "Posters",
+  type: "image",
+  description: "Poster artwork created as part of portfolio poster design collection.",
+  image: poratge17,
+},
+
 ];
 
 /* ✅ Instagram Profile Preview Component */
