@@ -57,30 +57,7 @@ const ContactSection = () => {
             </a>
           </div>
 
-          {/* Contact form */}
-          <form className="reveal glass-card p-8 flex flex-col gap-4" onSubmit={(e) => e.preventDefault()}>
-            <input
-              type="text"
-              placeholder="Your Name"
-              className="w-full px-4 py-3 rounded-lg bg-muted/50 border border-border font-body text-sm text-foreground placeholder:text-muted-foreground focus:outline-none focus:ring-2 focus:ring-primary/50 transition"
-            />
-            <input
-              type="email"
-              placeholder="Your Email"
-              className="w-full px-4 py-3 rounded-lg bg-muted/50 border border-border font-body text-sm text-foreground placeholder:text-muted-foreground focus:outline-none focus:ring-2 focus:ring-primary/50 transition"
-            />
-            <textarea
-              placeholder="Your Message"
-              rows={4}
-              className="w-full px-4 py-3 rounded-lg bg-muted/50 border border-border font-body text-sm text-foreground placeholder:text-muted-foreground focus:outline-none focus:ring-2 focus:ring-primary/50 transition resize-none"
-            />
-            <button
-              type="submit"
-              className="flex items-center justify-center gap-2 px-6 py-3 rounded-full bg-primary text-primary-foreground font-body text-sm font-medium uppercase tracking-wider hover:scale-105 transition-transform duration-300 shadow-lg"
-            >
-              Send Message <Send className="w-4 h-4" />
-            </button>
-          </form>
+        
         </div>
       </div>
 
