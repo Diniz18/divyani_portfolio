@@ -43,7 +43,7 @@ const AboutSection = () => {
           <div className="reveal grid grid-cols-2 gap-4">
             {[
               { label: "Years Experience", value: "4+" },
-              { label: "Software Tools", value: "8+" },
+              { label: "Software Tools", value: "12+" },
             ].map((stat) => (
               <div key={stat.label} className="glass-card p-6 text-center hover:scale-105 transition-transform duration-300">
                 <p className="font-display text-3xl font-bold text-foreground">{stat.value}</p>
