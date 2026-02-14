@@ -2,8 +2,8 @@ import { useEffect, useRef, useState } from "react";
 import gsap from "gsap";
 import { ScrollTrigger } from "gsap/ScrollTrigger";
 import { Play, ExternalLink, Instagram, X, ZoomIn } from "lucide-react";
-import krishnPoster from "../assets/krushnakunj-2.jpg.jpeg";
-import krishnPoster2 from "../assets/Krushnakunj.jpg.jpeg";
+import krishnPoster from "../assets/krushnakunj-2.jpg";
+import krishnPoster2 from "../assets/krushnakunj.jpg";
 
 gsap.registerPlugin(ScrollTrigger);
 
