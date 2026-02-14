@@ -18,7 +18,7 @@ const experiences = [
   {
     role: "Multimedia Designer",
     company: "Creative Agency",
-    duration: "9 months",
+    duration: "14 months",
     points: [
       "Created digital campaigns, motion graphics, and social media visuals tailored to brand requirements.",
       "Produced and edited video content to increase audience reach and engagement.",
