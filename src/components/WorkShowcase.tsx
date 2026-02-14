@@ -69,6 +69,30 @@ const works: WorkItem[] = [
     description: "YouTube motion reel editing project",
     reelUrl: "https://youtu.be/WEI8Mit54dE?si=LX3qDx4D7bgGGamK",
   },
+  {
+    title: "UTB Kitchen Food Reel",
+    category: "Reels",
+    type: "video",
+    description: "Instagram reel created for UTB Kitchen showcasing delicious food content and brand promotions",
+    reelUrl: "https://www.instagram.com/utb_kitchen/?hl=en",
+    instagramHandle: "utb_kitchen",
+  },
+  {
+    title: "NCS Services Promo Reel",
+    category: "Reels",
+    type: "video",
+    description: "Marketing reel for NCS Services highlighting professional services and digital branding",
+    reelUrl: "https://www.instagram.com/services_ncs/?hl=en",
+    instagramHandle: "services_ncs",
+  },
+  {
+    title: "Little Wonders International Reel",
+    category: "Reels",
+    type: "video",
+    description: "Instagram reel project for Little Wonders International featuring school activities and creative storytelling",
+    reelUrl: "https://www.instagram.com/little_wonders_international/?hl=en",
+    instagramHandle: "little_wonders_international",
+  },
 
   /* ---------------- POSTERS ---------------- */
   {
