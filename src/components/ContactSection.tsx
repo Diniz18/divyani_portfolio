@@ -34,7 +34,7 @@ const ContactSection = () => {
           Have a project in mind? I'd love to hear about it. Let's create something amazing together.
         </p>
 
-        <div className="grid md:grid-cols-2 gap-8">
+        <div className="grid gap-8">
           {/* Contact info */}
           <div className="reveal flex flex-col gap-6">
             <a href="mailto:karwaldivyani@gmail.com" className="glass-card p-6 flex items-center gap-4 hover:shadow-xl hover:-translate-y-1 transition-all duration-500 group">
