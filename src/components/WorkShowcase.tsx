@@ -3,7 +3,7 @@ import gsap from "gsap";
 import { ScrollTrigger } from "gsap/ScrollTrigger";
 import { Play, ExternalLink, Instagram, X, ZoomIn } from "lucide-react";
 import krishnPoster from "../assets/krushnakunj-2.jpg.jpeg";
-import krishnPoster2 from "../assets/krushnakunj.jpg.jpeg";
+import krishnPoster2 from "../assets/Krushnakunj.jpg.jpeg";
 
 gsap.registerPlugin(ScrollTrigger);
 
